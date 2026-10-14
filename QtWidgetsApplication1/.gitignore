@@ -1,0 +1,52 @@
+# Visual Studio Auto-generated Directories
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# Build Output & Intermediate Files
+*.obj
+*.i
+*.s
+*.res
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.tlog
+*.log
+
+# Compiled Libraries & Executables
+*.exe
+*.dll
+*.lib
+*.sys
+*.exp
+*.ilk
+*.out
+*.app
+
+# User-specific & Local Settings
+*.user
+*.vcxproj.user
+*.vcxproj.filters.user
+*.sln.docstates
+*.suo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables & Local Secrets
+.env
+.env.local
